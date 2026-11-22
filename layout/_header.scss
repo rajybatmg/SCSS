@@ -1,0 +1,7 @@
+@use "../abstracts/variables" as v;
+
+.header {
+  h1 {
+    color: v.$primaryColor;
+  }
+}

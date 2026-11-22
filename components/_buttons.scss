@@ -1,0 +1,7 @@
+@use "../abstracts/variables" as v;
+
+.btn {
+  background-color: v.$buttonColor;
+  color: white;
+  padding: 10px;
+}
